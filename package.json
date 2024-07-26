@@ -1,0 +1,14 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "jenkinscicd",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
